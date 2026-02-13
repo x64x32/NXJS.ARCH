@@ -1,2 +1,1 @@
-17 pull requests merged<br>Currently:<br>![pull-shark](images/pull-shark-bronze.png)
-<!-- Change 18 -->
+18 pull requests merged<br>Currently:<br>![pull-shark](images/pull-shark-bronze.png)
